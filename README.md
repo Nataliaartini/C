@@ -1,4 +1,4 @@
-# C
+# Trabalho final de estrutura de dados feito com linguagem C
 estrutura de dados
 Você foi contratado pelo seu Joãozin da Bodega para criar um sistema com o qual ele
 possa controlar alguns detalhes do seu business. Seu Joãozin já definiu o que é mais
